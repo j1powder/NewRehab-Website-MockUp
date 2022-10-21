@@ -1,0 +1,113 @@
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#menu-bar{
+    background-color: black;
+    color:white;
+}
+#menu-list{
+    text-align: center;
+}
+
+.menu__item{
+    list-style: none;
+    margin: 1rem;
+    display: inline;
+}
+
+
+
+
+#first-section{
+background-image: url('GettyImages-1124611325.webp');
+width: 100%;
+height: auto;
+min-height: 500px;
+background-position: center;
+background-size: cover;
+}
+
+#first-section h1, h3{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    padding-top: 2rem;
+}
+#top-main p{
+    color: black;
+    font-size: xx-large;
+    line-height: 40px;
+    font-weight: bold;
+    text-align: right;
+    
+}
+#div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9{
+    padding-top: 1rem;
+    
+    width: 100%;
+    color: black;
+}
+#div2, #div5, #div7, #div9{
+    background-color: lightgrey;
+    padding-bottom: 1rem;
+}
+.normal-imgs{
+    width: 100%;
+    height: auto;
+    padding:1.5rem;
+    max-height: 450px;
+}
+#div4{
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+#div4 .col-md-3{
+background-color: ghostwhite;
+border-radius: 5px;    
+margin: 1rem;
+min-height: 200px;
+padding-top:1rem;
+}
+#div4 .col-md-3:hover{
+    background-image: linear-gradient(to bottom, grey, white);
+}
+#div6 p{
+padding-top: 15%;
+}
+#div9 p{
+    font-size: larger;
+
+}
+#div9 form, p{
+    padding-left:2rem;
+    align-content: center;
+    justify-content: center;
+}
+
+#div9 label, textarea{
+    display: block;
+}
+#div9 input{
+    margin-bottom: 2rem;
+    width: 70%;
+    height: 30px;
+    border: 1px black groove;
+    border-radius:3px;
+}
+#div9 textarea{
+    width:70%;
+    min-height: 60px;
+    border-radius:3px;
+    border: 1px black groove;
+
+
+}
+
+footer div{
+    background-color:grey;
+    text-align: center;
+    min-height: 40px;
+}
