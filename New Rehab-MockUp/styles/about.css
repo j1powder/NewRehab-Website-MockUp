@@ -1,0 +1,33 @@
+
+
+#about-cover{
+    background-image: url('../images/GettyImages-1124611325.webp')!important;
+    background-position: center !important;
+    background-repeat: none !important;
+    background-size: cover;
+    min-height: 400px;
+}
+#about-cover h1,h2{
+    color: white;
+    -webkit-text-stroke: 1px #3366cc;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+}
+#about-cover h2{
+    text-align: right;
+    padding-top: 25%;
+}
+
+#team-gallery img{
+    width: 70%;
+    height: auto;
+    border-radius: 50%;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 2px 2px 5px 4px grey;
+}
+
+#team-gallery h5{
+    margin: 1rem;
+    padding: 1rem;
+}

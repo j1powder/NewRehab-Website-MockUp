@@ -1,0 +1,25 @@
+
+#front-cover{
+    background-image: url('../images/outdoors.jpg')!important;
+    background-position: center !important;
+    background-repeat: none !important;
+    background-size: cover;
+    min-height: 400px; 
+}
+#pg5-dv2{
+    margin-top: 2%;
+}
+
+#pg5-dv2 img{
+    width: 30%;
+    height: auto;
+    display: inline;
+    margin: 1rem;
+}
+#pg5-dv3{
+    margin: 2%;
+}
+
+#pg5-dv3 .col-md-3{
+    padding: 3rem;
+}
