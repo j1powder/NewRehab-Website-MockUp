@@ -1,0 +1,76 @@
+
+
+
+
+
+#top-pic-dv{
+    background-image: url('../images/mind-body-soul.jpg')!important;
+    background-position: center !important;
+    background-repeat: none !important;
+    background-size: cover;
+    min-height: 400px;
+}
+
+#pg3-dv1{
+    background-color:#3366cc;
+    color: black;
+}
+
+#pg3-dv1 img{
+    width: 100%;
+    height: auto;
+    padding: 3%;
+    
+}
+
+.divimage{
+    width: 100%;
+    height: auto;
+    padding: 3%;
+}
+.greendiv{
+    background-color: #3366cc;
+    color: black;
+}
+#pic-div1{
+    text-align: center;
+}
+
+#pg3-dv2 p{
+    padding: 10% 0;
+}
+
+#pg3-dv4{
+    padding-top: 5%;
+}
+
+#pg3-dv4 form{
+    padding:5%;
+    align-content: center;
+    justify-content: center;
+}
+
+#pg3-dv4 label, textarea{
+    display: block;
+}
+#pg3-dv4 input{
+    margin-bottom: 2rem;
+    width: 70%;
+    height: 30px;
+    border: 1px black groove;
+    border-radius:3px;
+}
+#dpg3-dv4 textarea{
+    width:70%;
+    min-height: 60px;
+    border-radius:3px;
+    border: 1px black groove;
+
+
+}
+#pg3-dv4 img{
+    width: 40%;
+    height: auto;
+    display: inline;
+    margin: 1%;
+}
